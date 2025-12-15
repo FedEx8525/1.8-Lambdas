@@ -85,7 +85,7 @@ Lambda Expression to perform a specific string manipulation (reversal).
 * IntelliJ
 
 ## 🛠️Installation
-Clone this repository : -> [git clone]https://github.com/FedEx8525/1.8-Lambdas
+Clone this repository : -> [git clone](https://github.com/FedEx8525/1.8-Lambdas)
 
 ## ▶️Execution 
 * Run the program in IntelliJ
